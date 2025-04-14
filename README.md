@@ -1,2 +1,2 @@
-# Diwali_Sales_Analysis-
+# Diwali_Sales_Analysis
 Data analysis of Diwali sales using Python and Pandas
