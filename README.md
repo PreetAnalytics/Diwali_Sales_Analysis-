@@ -19,7 +19,7 @@ The dataset used in this project contains:
 - Geographic data (State, City)
 - Sales figures
 
-> *Dataset is included in the repository as a `.csv` file.*
+
 
 ## 🧠 Key Insights
 
@@ -35,5 +35,13 @@ The dataset used in this project contains:
 - **Matplotlib & Seaborn** – for data visualization
 - **Jupyter Notebook** – for interactive coding and visualization
 
-## 📂 Project Structure
+
+## 📸 Visual Highlights
+
+The notebook includes clear and colorful visualizations to make the analysis intuitive and insightful.
+
+
+
+
+
 
